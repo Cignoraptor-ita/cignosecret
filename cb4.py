@@ -15,7 +15,7 @@ def menu():
         print '''
 		CIGNOSECRET
 	'''
-	print "LIVELLO 11"
+	print "LIVELLO 12"
 	
 	d = raw_input("IN code.cigno THERE IS A DISPOSITION THAT WAS SIGNED BY?(case sensitive): ")
 	if d == "The duck army":
