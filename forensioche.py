@@ -15,11 +15,11 @@ def menu():
         print '''
 		CIGNOSECRET
 	'''
-	print "LIVELLO 12"
+	print "LIVELLO 13"
 	
 	d = raw_input("IN THE IMAGE le-oche HOW MANY GEESE HAVE BEEN ERASED? (number) : ")
 	if d == "2":
-		print "SUCCESS"
+		print "SUCCESS!"
 		time.sleep(2)
 	
 	else:
