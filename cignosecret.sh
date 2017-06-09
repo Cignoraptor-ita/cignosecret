@@ -18,7 +18,7 @@ echo "There are 15 levels"
 echo " "
 echo -e "Initially created for testing the \e[00;34mCIGNO-FRAMEWORK\e[00m (Social engineering oriented pentest and OSINT tool)"
 echo " "
-echo -e "\e[01;32mCoded by Cignoraptor\e[00m -- cignoraptor@easy.com"
+echo -e "\e[01;32mCoded by Cignoraptor\e[00m -- root4sec6per3@openmailbox.org"
 echo " "
         ;;
         'PLAY')
