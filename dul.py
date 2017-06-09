@@ -18,7 +18,7 @@ def menu():
 	'''
 	d = raw_input("DUCK IS IN THE? b6duck.txt: ")
 	if d == "lake":
-		print SUCCESS!"
+		print "SUCCESS!"
 		time.sleep(2)
 	
 	else:
