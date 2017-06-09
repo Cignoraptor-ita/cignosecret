@@ -15,7 +15,7 @@ def menu():
         print '''
 		CIGNOSECRET
 	'''
-	print "LEVEL 14"
+	print "LEVEL 10"
 	
 	d = raw_input("City in cit.jpg (IT --> EX: Venezia: ")
 	if d == "Assisi":
