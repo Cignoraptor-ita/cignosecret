@@ -52,29 +52,29 @@ echo " "
 echo "Using a user search give you more speed in this research and filter in auto mode"
 echo " "
         ;;
-        'LEVEL 10')       
+        'LEVEL 10')
+ echo " "
+ echo "Look every sides and you'll find informations who you can use to perform a relationships search. Look the signals and combine them for search where all this places are in a single place."
+echo " "
+        ;;
+        'LEVEL 11')       
 echo " "
 echo "There are 4 emails. 2 emails are easy to find, simply use cat * | grep @ command for search. The others 2 are more difficult, 1 is in a base64 code text, if you will decode it you'll find the email inside. The other is in a hidden file."
 echo " "
         ;;
-        'LEVEL 11')
+        'LEVEL 12')
 echo " "
 echo "Well... i think you know base64, try to decode for more times than one and at the end decode the hex sign"
 echo " "
         ;;
-        'LEVEL 12') 
+        'LEVEL 13') 
 echo " "
-echo "Use the site fotoforensic.com or use a ELA program, or simply reverse search the image, but so it's too easy!!!"   
+echo "Use the site fotoforensics.com or use a ELA program, or simply reverse search the image, but so it's too easy!!!"   
 echo " "
         ;;
-        'LEVEL 13')     
+        'LEVEL 14')     
 echo " "
 echo "The message is a steghide hidden message. Crack the passphrase for extract the hidden message."
-echo " "
-        ;;
-        'LEVEL 14')
-echo " "
-echo "Look every sides and you'll find information who you can use to perform a relationships search. Look the signals and combine them for search where all this places are in a single place."
 echo " "
         ;;
         'LEVEL 15')
